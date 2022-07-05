@@ -349,12 +349,15 @@ form.contactform{
     }
     .employer-detail h3{
         padding: 70px 0 8px 0;
-        font-size: 15px;
+        font-size: 25px;
         font-weight: bold;
         width: 100%;
     }
+    .employer-detail h5{
+        font-size: 20px;
+    }
     .employer-detail p{
-        font-size: 10px;
+        font-size: 20px;
         text-align: justify;
     }
 }
