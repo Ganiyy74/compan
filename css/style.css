@@ -317,6 +317,8 @@ form.contactform{
         width: 100%;
     }.skill-img{
         width: 100%;
+    }.skill-content{
+        width: 100%;
     }
 }
 @media (max-width: 939px){
